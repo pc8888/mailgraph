@@ -1,0 +1,9 @@
+h2 {
+ color: black;
+ background: rgb(221, 221, 221) none repeat scroll 0%;
+ width: 650px;
+}
+
+.version {
+ font-size: 12px;
+}
